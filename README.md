@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to mastering various facets of technology. Currently, I’m immersed in studying DSA with CPP, data science, machine learning, AR/VR, and more. My commitment to excellence drives me to constantly push my limits and strive for the best outcomes in all my endeavors. With each challenge I tackle and every skill I acquire, I’m forging a path toward becoming a proficient AI engineer ready to make meaningful contributions in this rapidly evolving field.
+As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to mastering various facets of technology. Currently, I’m immersed in studying DSA with CPP, Web Development, machine learning, AR/VR, and more. My commitment to excellence drives me to constantly push my limits and strive for the best outcomes in all my endeavors. With each challenge I tackle and every skill I acquire, I’m forging a path toward becoming a proficient AI engineer ready to make meaningful contributions in this rapidly evolving field.
 
 
 ## 🌐 Socials:
